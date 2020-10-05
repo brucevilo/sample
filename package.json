@@ -1,14 +1,19 @@
 {
   "name": "task1",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brucevilo/MEAN.git"
+  },
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "bugs": {
+    "url": "https://github.com/brucevilo/MEAN/issues"
+  },
+  "homepage": "https://github.com/brucevilo/MEAN#readme"
 }
